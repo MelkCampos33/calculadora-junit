@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n--------------- CALCULADORA ---------------");
+            System.out.println("\n-------------- CALCULADORA --------------");
             System.out.println("1 - Somar");
             System.out.println("2 - Subtrair");
             System.out.println("3 - Multiplicar");
